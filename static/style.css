@@ -1,0 +1,20 @@
+* {
+  margin: clear;
+  padding: clear;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 10px;
+}
+ul {
+  list-style: none;
+}
+
+li {
+  text-decoration: none;
+  display: inline;
+  margin: auto 10px;
+}
